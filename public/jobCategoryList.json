@@ -1,0 +1,34 @@
+[
+  {
+    "id":1,
+    "logo": "https://burst.shopifycdn.com/photos/female-designer-reviewing-wireframes.jpg?width=925&format=pjpg&exif=1&iptc=1",
+    "title": "UI/UX Designer",
+    "description": "Develop, test, and maintain software applications",
+    "availableJob": "300 Jobs Available",
+    "salary": "$100,000 - $120,000"
+  },
+  {
+    "id":2,
+    "logo": "https://burst.shopifycdn.com/photos/bills-and-finances.jpg?width=925&format=pjpg&exif=1&iptc=1",
+    "title": "Data Analyst",
+    "description": "Analyze large data sets and present findings to stakeholders",
+    "availableJob": "100+ Jobs Available",
+    "salary": "$80,000 - $100,000"
+  },
+  {
+    "id":3,
+    "logo": "https://burst.shopifycdn.com/photos/developer-coding-in-php.jpg?width=925&format=pjpg&exif=1&iptc=1",
+    "title": "Web Designer",
+    "description": "Design and create visually appealing websites",
+    "availableJob": "150 Jobs Available",
+    "salary": "$70,000 - $90,000"
+  },
+  {
+    "id":4,
+    "logo": "https://burst.shopifycdn.com/photos/orange-blue-green-wires.jpg?width=925&format=pjpg&exif=1&iptc=1",
+    "title": "Network Administrator",
+    "description": "Manage and maintain computer networks",
+    "availableJob": "224 Jobs Available",
+    "salary": "$90,000 - $110,000"
+  }
+]
