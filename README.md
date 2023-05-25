@@ -5,7 +5,7 @@ Dream Job website is an online platform where employers can post job openings an
 Hosted in Netlify -> https://dream-job-project.netlify.app/
 
 ### Github Repo 
- Link: https://github.com/Porgramming-Hero-web-course/b7a9-career-hub-ShahidaAkter1
+ Link: https://github.com/ShahidaAkter1/dream-Job
 
 ### React Router Dom v6.4
 Documentation Link -> https://reactrouter.com/en/main/start/tutorial
